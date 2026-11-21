@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "packs": [
+  {
+   "id": "breathe-more",
+   "kind": "breathe",
+   "title": "More breathing techniques",
+   "blurb": "Eight more rhythms: wind-down, steady, wake-up",
+   "version": 1,
+   "file": "breathe-more.json",
+   "sha256": "f20c1219be2fa2b8fee74faa4042d1086c5c8d5839566765553c031dc22a4b29",
+   "size": 1939
+  },
+  {
+   "id": "move-routines",
+   "kind": "move",
+   "title": "Interval routines",
+   "blurb": "Warm-up, core, legs, upper body, HIIT, stretch and more",
+   "version": 1,
+   "file": "move-routines.json",
+   "sha256": "719b86522d48fa651d5792ce3f9575f7736ef3716adc3d61be462a662c205096",
+   "size": 1438
+  },
+  {
+   "id": "focus-methods",
+   "kind": "focus",
+   "title": "Focus methods",
+   "blurb": "Pomodoro, 52/17, 90-minute cycles, deep work and more",
+   "version": 1,
+   "file": "focus-methods.json",
+   "sha256": "0d64be37e95dd36e4d9e35de10550625b297d84e95b3f5d326e125d7e5c7ff94",
+   "size": 1022
+  }
+ ]
+}

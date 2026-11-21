@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "kind": "focus",
+ "id": "focus-methods",
+ "version": 1,
+ "license": "CC0-1.0",
+ "items": [
+  {
+   "name": "Pomodoro",
+   "minutes": 25,
+   "break": 5,
+   "note": "One task, no switching. After four rounds take a longer break."
+  },
+  {
+   "name": "Long Pomodoro",
+   "minutes": 50,
+   "break": 10,
+   "note": "For work that needs a longer run-up."
+  },
+  {
+   "name": "52 and 17",
+   "minutes": 52,
+   "break": 17,
+   "note": "Work with full attention, then really step away."
+  },
+  {
+   "name": "90-minute cycle",
+   "minutes": 90,
+   "break": 20,
+   "note": "Ride one natural energy wave, then rest properly."
+  },
+  {
+   "name": "Deep work",
+   "minutes": 120,
+   "break": 15,
+   "note": "One hard thing, phone out of reach, notifications off."
+  },
+  {
+   "name": "Sprint",
+   "minutes": 10,
+   "break": 2,
+   "note": "When starting feels hard: just ten minutes."
+  },
+  {
+   "name": "Two-minute rule",
+   "minutes": 2,
+   "note": "If it takes two minutes, do it now instead of listing it."
+  }
+ ]
+}

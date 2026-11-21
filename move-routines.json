@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "kind": "move",
+ "id": "move-routines",
+ "version": 1,
+ "license": "CC0-1.0",
+ "items": [
+  {
+   "name": "Warm-up",
+   "work": 30,
+   "rest": 10,
+   "rounds": 5,
+   "note": "Marching, arm circles, hip circles, shoulder rolls, easy squats."
+  },
+  {
+   "name": "Core 5",
+   "work": 40,
+   "rest": 20,
+   "rounds": 5,
+   "note": "Plank, dead bug, bicycle crunch, glute bridge, side plank (swap sides)."
+  },
+  {
+   "name": "Legs",
+   "work": 40,
+   "rest": 20,
+   "rounds": 6,
+   "note": "Squat, reverse lunge, calf raise, wall sit, step-up, glute bridge."
+  },
+  {
+   "name": "Upper body",
+   "work": 30,
+   "rest": 15,
+   "rounds": 6,
+   "note": "Push-up (knees are fine), chair dip, pike push-up, shoulder tap, superman, arm circles."
+  },
+  {
+   "name": "Quick HIIT",
+   "work": 30,
+   "rest": 30,
+   "rounds": 8,
+   "note": "Jumping jacks, high knees, squat jumps, mountain climbers. Use low-impact steps if you need to."
+  },
+  {
+   "name": "Stretch",
+   "work": 30,
+   "rest": 5,
+   "rounds": 8,
+   "note": "Hamstring, quad, hip flexor, chest opener, shoulder, calf, neck, child's pose."
+  },
+  {
+   "name": "Desk break",
+   "work": 30,
+   "rest": 10,
+   "rounds": 4,
+   "note": "Neck rolls, shoulder shrugs, wrist circles, standing hip hinge."
+  },
+  {
+   "name": "Walk-jog",
+   "work": 60,
+   "rest": 60,
+   "rounds": 8,
+   "note": "Jog for a minute, walk for a minute. Keep the jog easy enough to talk."
+  }
+ ]
+}
